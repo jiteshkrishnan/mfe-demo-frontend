@@ -1,1 +1,1 @@
-# mfe-demo-frontends
+# mfe-demo-frontend
